@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.imgCodo {
+    width: 70px;
+    height: 40px;
+}
+.fondo {
+  position: relative;
+  height: 700px;
+  width: 100%;
+  color: white;
+  background-image: url('ba1.jpg');
+  background-size: cover;
+}
+
+.texto-arquitectura {
+    position: absolute;
+    top: 200px;
+    right: 0px;
+    height: 100px;
+    width: 300px;
+    
+    
+}
+
+
+
+
+.main-imagen {
+    position: relative;
+
+}
+
+.botonDisplay {
+    display: flex;
+}
+
+.titulo-cards {
+    position: relative;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.botonJavaScript {
+    background-color: rgb(255, 255, 5);
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border: 0cm;
+}
+
+.botonReact {
+    background-color: rgb(17, 217, 217);
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border: 0cm;
+}
+
+.botonNegocios {
+    background-color: rgb(72, 83, 84);
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border: 0cm;
+}
+
+.botonStartups {
+    background-color: rgb(192, 18, 18);
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border: 0cm;
+}
+
+.espacio {
+    position: absolute;
+    display:inline;
+    width: 100%;
+    height: 50px;
+}
+
+.honoluluFondogris{
+    position: relative;
+    width: 100%;
+    height: 400px;
+}
+
+.imgHonolulu{
+
+    position: relative;
+    display: inline-block;
+    width: 50%;
+    height: 400px;
+    margin-right: 2px;
+}
+
+
+.textoYFondo{
+    position: absolute;
+    display: inline-block;
+    width: 50%;
+    height: 401px;
+    color: white;
+    background-color: rgb(137, 133, 133);
+    padding: 10px;
+
+}
+
+.titulo-formulario {
+    position: relative;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+
+
+.botonFinal {
+    background-color: rgb(73, 215, 73);
+    width: 85%;
+    height: 40px;
+    color: white;
+    font-size: large;
+    border-radius: 7px;
+    border: 0;
+    margin-left: 90px;
+}
+
+.contenedorNombreApellido {
+
+    display: flex;
+    height: 15px;
+    width: 100%;
+    flex-direction: broad;
+    align-items: center;
+}
+
+.nombre {
+    margin-right: 2px;
+    display: inline-block;
+    width: 50vw;
+    border-radius: 2px;
+    border: 1px solid;
+
+}
+
+.apellido {
+    display: inline-block;
+    width: 50vw;
+    border-radius: 2px;
+    border: 1px solid;
+}
+.textArea {
+    position: relative;
+    width: 100vw;
+    height: 100px;
+
+}
+
+.listaFinal {
+        display: inline-block;
+        text-decoration: 0;
+        color: white;
+        align-self: center;
+        
+       
+}
+
+
+
+
+
+.footer {
+    position: relative;
+    display: flex;
+    width: 100vw;
+    height: 5vw;
+    background-color: rgb(23, 26, 94);
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 2px;
+    
+
+}
+
+
+
